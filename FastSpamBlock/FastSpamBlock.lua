@@ -146,6 +146,9 @@ local blocklist = {
 	"trade-raid.com",
     "bietet m+",
     "twitch",
+    "Verkaufen",
+	"Chance",
+	"JETZT",
     "keystone master"
 }
 
