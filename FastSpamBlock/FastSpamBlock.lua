@@ -104,6 +104,7 @@ local blocklist = {
 	"m+ 13",
 	"m+ 14",
 	"m+ 15",
+	"m+20",
 
 	"m+keys",
 	"m+ keys",
@@ -149,6 +150,8 @@ local blocklist = {
     "Verkaufen",
 	"Chance",
 	"JETZT",
+	"320k",
+	"170k",
     "keystone master"
 }
 
