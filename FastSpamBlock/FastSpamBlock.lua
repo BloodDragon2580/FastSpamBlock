@@ -152,6 +152,14 @@ local blocklist = {
 	"JETZT",
 	"320k",
 	"170k",
+	"Chance",
+	"270k",
+	"4x20",
+	"HC",
+	"Lootshare",
+	"Verkaufen JETZT",
+	"Chance auf",
+	"Beide ",
     "keystone master"
 }
 
