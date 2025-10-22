@@ -149,5 +149,7 @@ filterWords = {
     "Verkaufen JETZT",
     "Chance auf",
     "Beide ",
-    "keystone master"
+    "keystone master",
+    "BESTEN PREISE",
+    "Wir bieten alle an"
 }
