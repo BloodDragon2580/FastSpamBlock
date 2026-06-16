@@ -1,8 +1,8 @@
-## Interface: 120005
+## Interface: 120007, 120005
 ## Title:|cffd6266cFastSpamBlock|r
 ## Notes: Block Boost Message from Trade and Group Chat
 ## Author: BloodDragon2580
-## Version: 10.2
+## Version: 10.3
 ## SavedVariables: FastSpamBlock
 ## IconTexture: Interface\AddOns\FastSpamBlock\Media\Texture\logo
 
